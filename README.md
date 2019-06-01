@@ -1,3 +1,5 @@
+![](https://david-dm.org/brunoparolini/tsnode.svg)
+
 # Simple TypeScript + NodeJS project
 This is a simple TypeScript + NodeJS project project created for learning purposes.
 
